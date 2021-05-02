@@ -1,0 +1,13 @@
+2021-04-18 01:27:15,124-BrowserEngine-INFO-你已选择了【Chrome】浏览器
+2021-04-18 01:27:15,124-BrowserEngine-INFO-你已选择测试地址【http://www.baidu.com】
+2021-04-18 01:27:20,176-BrowserEngine-INFO-打开谷歌浏览器
+2021-04-18 01:27:21,039-BrowserEngine-INFO-打开url地址【http://www.baidu.com】
+2021-04-18 01:27:25,153-BrowserEngine-INFO-浏览器窗口最大化
+2021-04-18 01:27:25,154-BrowserEngine-INFO-智能等待10秒 implicity_wait()
+2021-04-18 01:27:25,159-BasePage-INFO-Current page title is 百度一下，你就知道
+2021-04-18 01:27:27,227-BrowserEngine-INFO-你已选择了【Chrome】浏览器
+2021-04-18 01:27:27,227-BrowserEngine-INFO-你已选择测试地址【http://www.baidu.com】
+2021-04-18 01:27:32,246-BrowserEngine-INFO-打开谷歌浏览器
+2021-04-18 01:27:33,037-BrowserEngine-INFO-打开url地址【http://www.baidu.com】
+2021-04-18 01:27:37,153-BrowserEngine-INFO-浏览器窗口最大化
+2021-04-18 01:27:37,154-BrowserEngine-INFO-智能等待10秒 implicity_wait()

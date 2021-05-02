@@ -1,0 +1,10 @@
+2021-03-01 12:29:00,996-BrowserEngine-INFO-你已选择了【Chrome】浏览器
+2021-03-01 12:29:00,996-BrowserEngine-INFO-你已选择测试地址【http://www.baidu.com】
+2021-03-01 12:29:06,227-BrowserEngine-INFO-打开谷歌浏览器
+2021-03-01 12:29:08,261-BrowserEngine-INFO-打开url地址【http://www.baidu.com】
+2021-03-01 12:29:12,382-BrowserEngine-INFO-浏览器窗口最大化
+2021-03-01 12:29:12,383-BrowserEngine-INFO-智能等待10秒 implicity_wait()
+2021-03-01 12:29:12,405-BasePage-INFO-Had find the element ''sucessful by id via value:kw
+2021-03-01 12:29:12,514-BasePage-INFO-Had input_send ' selenium1 ' in inputBox
+2021-03-01 12:29:13,522-BasePage-INFO-css_selector 定位成功
+2021-03-01 12:29:13,578-BasePage-INFO-The element '' was clicked.

@@ -1,0 +1,58 @@
+2021-03-01 12:24:30,222-BrowserEngine-INFO-你已选择了【Chrome】浏览器
+2021-03-01 12:24:30,222-BrowserEngine-INFO-你已选择测试地址【http://www.baidu.com】
+2021-03-01 12:24:35,469-BrowserEngine-INFO-打开谷歌浏览器
+2021-03-01 12:24:35,670-BrowserEngine-INFO-打开url地址【http://www.baidu.com】
+2021-03-01 12:24:39,788-BrowserEngine-INFO-浏览器窗口最大化
+2021-03-01 12:24:39,790-BrowserEngine-INFO-智能等待10秒 implicity_wait()
+2021-03-01 12:24:39,796-BasePage-INFO-Current page title is www.baidu.com
+2021-03-01 12:24:42,175-BrowserEngine-INFO-你已选择了【Chrome】浏览器
+2021-03-01 12:24:42,175-BrowserEngine-INFO-你已选择测试地址【http://www.baidu.com】
+2021-03-01 12:24:47,356-BrowserEngine-INFO-打开谷歌浏览器
+2021-03-01 12:24:47,549-BrowserEngine-INFO-打开url地址【http://www.baidu.com】
+2021-03-01 12:24:51,672-BrowserEngine-INFO-浏览器窗口最大化
+2021-03-01 12:24:51,672-BrowserEngine-INFO-智能等待10秒 implicity_wait()
+2021-03-01 12:24:59,460-BrowserEngine-INFO-你已选择了【Chrome】浏览器
+2021-03-01 12:24:59,460-BrowserEngine-INFO-你已选择测试地址【http://www.baidu.com】
+2021-03-01 12:25:04,712-BrowserEngine-INFO-打开谷歌浏览器
+2021-03-01 12:25:06,170-BrowserEngine-INFO-打开url地址【http://www.baidu.com】
+2021-03-01 12:25:10,289-BrowserEngine-INFO-浏览器窗口最大化
+2021-03-01 12:25:10,290-BrowserEngine-INFO-智能等待10秒 implicity_wait()
+2021-03-01 12:25:10,294-BasePage-INFO-Current page title is 百度一下，你就知道
+2021-03-01 12:25:13,526-BrowserEngine-INFO-你已选择了【Chrome】浏览器
+2021-03-01 12:25:13,526-BrowserEngine-INFO-你已选择测试地址【http://www.baidu.com】
+2021-03-01 12:25:18,712-BrowserEngine-INFO-打开谷歌浏览器
+2021-03-01 12:25:22,072-BrowserEngine-INFO-打开url地址【http://www.baidu.com】
+2021-03-01 12:25:26,201-BrowserEngine-INFO-浏览器窗口最大化
+2021-03-01 12:25:26,203-BrowserEngine-INFO-智能等待10秒 implicity_wait()
+2021-03-01 12:25:52,682-BasePage-INFO-已经获取图片并保存到了screen_shots
+2021-03-01 12:26:01,071-BasePage-INFO-已经获取图片并保存到了screen_shots
+2021-03-01 12:26:03,517-BrowserEngine-INFO-你已选择了【Chrome】浏览器
+2021-03-01 12:26:03,517-BrowserEngine-INFO-你已选择测试地址【http://www.baidu.com】
+2021-03-01 12:26:08,702-BrowserEngine-INFO-打开谷歌浏览器
+2021-03-01 12:26:10,316-BrowserEngine-INFO-打开url地址【http://www.baidu.com】
+2021-03-01 12:26:14,437-BrowserEngine-INFO-浏览器窗口最大化
+2021-03-01 12:26:14,438-BrowserEngine-INFO-智能等待10秒 implicity_wait()
+2021-03-01 12:26:14,457-BasePage-INFO-Had find the element ''sucessful by id via value:kw
+2021-03-01 12:26:14,560-BasePage-INFO-Had input_send ' selenium1 ' in inputBox
+2021-03-01 12:26:15,573-BasePage-INFO-css_selector 定位成功
+2021-03-01 12:26:15,634-BasePage-INFO-The element '' was clicked.
+2021-03-01 12:26:20,004-BrowserEngine-INFO-你已选择了【Chrome】浏览器
+2021-03-01 12:26:20,004-BrowserEngine-INFO-你已选择测试地址【http://www.baidu.com】
+2021-03-01 12:26:25,157-BrowserEngine-INFO-打开谷歌浏览器
+2021-03-01 12:26:26,526-BrowserEngine-INFO-打开url地址【http://www.baidu.com】
+2021-03-01 12:26:30,650-BrowserEngine-INFO-浏览器窗口最大化
+2021-03-01 12:26:30,651-BrowserEngine-INFO-智能等待10秒 implicity_wait()
+2021-03-01 12:26:30,667-BasePage-INFO-Had find the element ''sucessful by id via value:kw
+2021-03-01 12:26:30,775-BasePage-INFO-Had input_send ' selenium2 ' in inputBox
+2021-03-01 12:26:30,782-BasePage-INFO-css_selector 定位成功
+2021-03-01 12:26:30,844-BasePage-INFO-The element '' was clicked.
+2021-03-01 12:26:34,845-BasePage-INFO-Sleep for 4 seconds
+2021-03-01 12:26:35,178-BasePage-INFO-已经获取图片并保存到了screen_shots
+2021-03-01 12:26:35,182-BasePage-INFO-Current page title is selenium2_百度搜索
+2021-03-01 12:26:35,193-BasePage-INFO-Had find the element ''sucessful by id via value:kw
+2021-03-01 12:26:35,250-BasePage-INFO-Had input_send ' python ' in inputBox
+2021-03-01 12:26:35,255-BasePage-INFO-css_selector 定位成功
+2021-03-01 12:26:35,307-BasePage-INFO-The element '' was clicked.
+2021-03-01 12:26:39,308-BasePage-INFO-Sleep for 4 seconds
+2021-03-01 12:26:39,680-BasePage-INFO-已经获取图片并保存到了screen_shots
+2021-03-01 12:26:39,683-BasePage-INFO-Current page title is python_百度搜索

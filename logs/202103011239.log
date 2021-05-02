@@ -1,0 +1,45 @@
+2021-03-01 12:39:07,563-BrowserEngine-INFO-你已选择了【Chrome】浏览器
+2021-03-01 12:39:07,563-BrowserEngine-INFO-你已选择测试地址【http://www.baidu.com】
+2021-03-01 12:39:12,814-BrowserEngine-INFO-打开谷歌浏览器
+2021-03-01 12:39:15,455-BrowserEngine-INFO-打开url地址【http://www.baidu.com】
+2021-03-01 12:39:19,580-BrowserEngine-INFO-浏览器窗口最大化
+2021-03-01 12:39:19,581-BrowserEngine-INFO-智能等待10秒 implicity_wait()
+2021-03-01 12:39:19,586-BasePage-INFO-Current page title is 百度一下，你就知道
+2021-03-01 12:39:21,983-BrowserEngine-INFO-你已选择了【Chrome】浏览器
+2021-03-01 12:39:21,983-BrowserEngine-INFO-你已选择测试地址【http://www.baidu.com】
+2021-03-01 12:39:27,200-BrowserEngine-INFO-打开谷歌浏览器
+2021-03-01 12:39:30,312-BrowserEngine-INFO-打开url地址【http://www.baidu.com】
+2021-03-01 12:39:34,436-BrowserEngine-INFO-浏览器窗口最大化
+2021-03-01 12:39:34,438-BrowserEngine-INFO-智能等待10秒 implicity_wait()
+2021-03-01 12:40:00,789-BasePage-INFO-已经获取图片并保存到了screen_shots
+2021-03-01 12:40:09,185-BasePage-INFO-已经获取图片并保存到了screen_shots
+2021-03-01 12:40:11,626-BrowserEngine-INFO-你已选择了【Chrome】浏览器
+2021-03-01 12:40:11,627-BrowserEngine-INFO-你已选择测试地址【http://www.baidu.com】
+2021-03-01 12:40:16,805-BrowserEngine-INFO-打开谷歌浏览器
+2021-03-01 12:40:20,700-BrowserEngine-INFO-打开url地址【http://www.baidu.com】
+2021-03-01 12:40:24,822-BrowserEngine-INFO-浏览器窗口最大化
+2021-03-01 12:40:24,823-BrowserEngine-INFO-智能等待10秒 implicity_wait()
+2021-03-01 12:40:24,841-BasePage-INFO-Had find the element ''sucessful by id via value:kw
+2021-03-01 12:40:24,950-BasePage-INFO-Had input_send ' selenium1 ' in inputBox
+2021-03-01 12:40:25,961-BasePage-INFO-css_selector 定位成功
+2021-03-01 12:40:26,045-BasePage-INFO-The element '' was clicked.
+2021-03-01 12:40:30,424-BrowserEngine-INFO-你已选择了【Chrome】浏览器
+2021-03-01 12:40:30,424-BrowserEngine-INFO-你已选择测试地址【http://www.baidu.com】
+2021-03-01 12:40:35,633-BrowserEngine-INFO-打开谷歌浏览器
+2021-03-01 12:40:37,715-BrowserEngine-INFO-打开url地址【http://www.baidu.com】
+2021-03-01 12:40:41,833-BrowserEngine-INFO-浏览器窗口最大化
+2021-03-01 12:40:41,834-BrowserEngine-INFO-智能等待10秒 implicity_wait()
+2021-03-01 12:40:41,854-BasePage-INFO-Had find the element ''sucessful by id via value:kw
+2021-03-01 12:40:41,964-BasePage-INFO-Had input_send ' selenium2 ' in inputBox
+2021-03-01 12:40:41,973-BasePage-INFO-css_selector 定位成功
+2021-03-01 12:40:42,031-BasePage-INFO-The element '' was clicked.
+2021-03-01 12:40:46,031-BasePage-INFO-Sleep for 4 seconds
+2021-03-01 12:40:46,384-BasePage-INFO-已经获取图片并保存到了screen_shots
+2021-03-01 12:40:46,389-BasePage-INFO-Current page title is selenium2_百度搜索
+2021-03-01 12:40:46,401-BasePage-INFO-Had find the element ''sucessful by id via value:kw
+2021-03-01 12:40:46,452-BasePage-INFO-Had input_send ' python ' in inputBox
+2021-03-01 12:40:46,458-BasePage-INFO-css_selector 定位成功
+2021-03-01 12:40:46,494-BasePage-INFO-The element '' was clicked.
+2021-03-01 12:40:50,494-BasePage-INFO-Sleep for 4 seconds
+2021-03-01 12:40:51,028-BasePage-INFO-已经获取图片并保存到了screen_shots
+2021-03-01 12:40:51,031-BasePage-INFO-Current page title is python_百度搜索
